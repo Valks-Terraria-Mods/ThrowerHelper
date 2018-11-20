@@ -1,0 +1,10 @@
+.vs/
+
+bin/
+
+obj/
+ThrowersHelper.csproj
+
+ThrowersHelper.csproj.user
+
+ThrowersHelper.sln
