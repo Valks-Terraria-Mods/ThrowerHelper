@@ -1,7 +1,7 @@
 ﻿using Terraria;
 using Terraria.ModLoader;
 
-namespace ThrowersHelper
+namespace ThrowerHelper
 {
     class InfiniteThrowingItems : GlobalItem
     {

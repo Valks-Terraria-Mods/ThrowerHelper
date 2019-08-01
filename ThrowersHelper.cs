@@ -1,10 +1,10 @@
 using Terraria.ModLoader;
 
-namespace ThrowersHelper
+namespace ThrowerHelper
 {
-	class ThrowersHelper : Mod
+	class ThrowerHelper : Mod
 	{
-		public ThrowersHelper()
+		public ThrowerHelper()
 		{
 		}
 	}
