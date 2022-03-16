@@ -1,5 +1,5 @@
 author = valkyrienyanko
-version = 1.4
+version = 1.4.1
 displayName = Throwers Helper
 
-homepage = https://discord.gg/thMupbv
+homepage = https://github.com/Valks-Terraria-Mods/ThrowerHelper
