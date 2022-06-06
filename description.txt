@@ -1,1 +1,1 @@
-Throwing items are never consumed anymore.
+Throwing items are never consumed.

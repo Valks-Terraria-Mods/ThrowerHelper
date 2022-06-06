@@ -1,11 +1,6 @@
-using Terraria.ModLoader;
+global using Terraria;
+global using Terraria.ModLoader;
 
-namespace ThrowerHelper
-{
-	class ThrowerHelper : Mod
-	{
-		public ThrowerHelper()
-		{
-		}
-	}
-}
+namespace ThrowerHelper;
+
+class ThrowerHelper : Mod { }

@@ -1,15 +1,6 @@
-﻿using Terraria;
-using Terraria.ModLoader;
+﻿namespace ThrowerHelper;
 
-namespace ThrowerHelper
+class InfiniteThrowingItems : GlobalItem
 {
-    class InfiniteThrowingItems : GlobalItem
-    {
-        public override bool ConsumeItem(Item item, Player player) {
-            if (item.thrown) {
-                return false;
-            }
-            return true;
-        }
-    }
+    public override bool ConsumeItem(Item item, Player player) => !item.CountsAsClass(DamageClass.Throwing);
 }
