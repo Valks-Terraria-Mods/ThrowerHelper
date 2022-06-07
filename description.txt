@@ -1,1 +1,3 @@
 Throwing items are never consumed.
+
+Source: https://github.com/Valks-Terraria-Mods/ThrowerHelper
